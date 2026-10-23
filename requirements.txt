@@ -1,0 +1,14 @@
+# Core dependencies
+pefile>=2023.2.7
+pandas>=3.0.2
+numpy>=1.26.4
+scikit-learn>=1.8.0
+lightgbm>=4.6.0
+matplotlib>=3.6.3
+seaborn>=0.13.2
+joblib>=1.5.3
+optuna>=4.8.0
+tqdm>=4.60.0
+
+# Test dependencies
+pytest>=9.0.3
